@@ -1,0 +1,7 @@
+name = 'Content XLS Import'
+description = 'Reactive Studio. Content Import from XLS File'
+core = '7.x'
+package = 'Reactive'
+version = '7.x-0.1'
+
+files[] = own_import_from_file.module
